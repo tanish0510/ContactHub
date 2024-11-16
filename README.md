@@ -43,7 +43,7 @@ To get started with **ContactHub**, follow these steps:
 ![Add Contact Form](https://github.com/tanish0510/ContactHub/blob/main/contact-management/Screenshot%202024-11-17%20at%201.51.02%E2%80%AFAM.png)
 _Add a contact form_
 
-![View Contacts](https://github.com/tanish0510/ContactHub/blob/main/contact-management/Screenshot%202024-11-17%20at%201.51.42%E2%80%AFAM.png)
+![View Contacts](https://github.com/tanish0510/ContactHub/blob/main/contact-management/Screenshot%202024-11-17%20at%201.57.03%E2%80%AFAM.png)
 _Contact list view_
 
 ## Contributing
