@@ -40,25 +40,19 @@ To get started with **ContactHub**, follow these steps:
 
 ## Screenshots
 
-![Add Contact Form](path-to-screenshot-1.png)
+![Add Contact Form](https://github.com/tanish0510/ContactHub/blob/main/contact-management/Screenshot%202024-11-17%20at%201.51.02%E2%80%AFAM.png)
 _Add a contact form_
 
-![View Contacts](path-to-screenshot-2.png)
+![View Contacts](https://github.com/tanish0510/ContactHub/blob/main/contact-management/Screenshot%202024-11-17%20at%201.51.42%E2%80%AFAM.png)
 _Contact list view_
 
 ## Contributing
 
 Contributions are welcome! Feel free to fork the repository, create a new branch, and submit a pull request for any improvements, bug fixes, or feature additions.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - Thanks to [Font Awesome](https://fontawesome.com) for the icons.
 - Inspired by modern web development practices and frameworks.
 
----
 
-Made with ❤️ by [Your Name]
