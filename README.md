@@ -40,10 +40,10 @@ To get started with **ContactHub**, follow these steps:
 
 ## Screenshots
 
-![Add Contact Form](path-to-screenshot-1.png)
+![Add Contact Form](https://github.com/tanish0510/ContactHub/blob/main/contact-management/Screenshot%202024-11-17%20at%201.51.02%E2%80%AFAM.png)
 _Add a contact form_
 
-![View Contacts](path-to-screenshot-2.png)
+![View Contacts]([path-to-screenshot-2.png](https://github.com/tanish0510/ContactHub/blob/main/contact-management/Screenshot%202024-11-17%20at%201.51.42%E2%80%AFAM.png))
 _Contact list view_
 
 ## Contributing
